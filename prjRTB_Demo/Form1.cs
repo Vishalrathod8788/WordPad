@@ -86,6 +86,7 @@ namespace prjRTB_Demo
             {
                 LoadDefault();
             }
+
         }
 
         private void backColorToolStripMenuItem_Click(object sender, EventArgs e)
