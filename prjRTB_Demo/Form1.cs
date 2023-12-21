@@ -116,7 +116,6 @@ namespace prjRTB_Demo
                     saveToolStripMenuItem_Click(sender, e);
                 }
             }
-
             isEdit = true;
             RTB1.Clear();
             LoadDefault();

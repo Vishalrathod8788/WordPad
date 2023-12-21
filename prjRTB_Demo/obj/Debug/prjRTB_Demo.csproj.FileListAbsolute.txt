@@ -73,3 +73,9 @@ E:\Sem_4_All_Detail\C#\MyWordPad\P7\pro10\prjRTB_Demo\obj\Debug\prjRTB_Demo.cspr
 D:\WordPad\prjRTB_Demo\bin\Debug\prjRTB_Demo.exe.config
 D:\WordPad\prjRTB_Demo\obj\Debug\prjRTB_Demo.exe
 D:\WordPad\prjRTB_Demo\obj\Debug\prjRTB_Demo.pdb
+D:\WordPad\prjRTB_Demo\bin\Debug\prjRTB_Demo.exe
+D:\WordPad\prjRTB_Demo\bin\Debug\prjRTB_Demo.pdb
+D:\WordPad\prjRTB_Demo\obj\Debug\prjRTB_Demo.csprojResolveAssemblyReference.cache
+D:\WordPad\prjRTB_Demo\obj\Debug\prjRTB_Demo.Form1.resources
+D:\WordPad\prjRTB_Demo\obj\Debug\prjRTB_Demo.Properties.Resources.resources
+D:\WordPad\prjRTB_Demo\obj\Debug\prjRTB_Demo.csproj.GenerateResource.Cache
