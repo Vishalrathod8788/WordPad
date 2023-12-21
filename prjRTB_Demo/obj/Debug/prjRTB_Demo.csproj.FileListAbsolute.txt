@@ -70,3 +70,6 @@ E:\Sem_4_All_Detail\C#\MyWordPad\P7\pro10\prjRTB_Demo\obj\Debug\prjRTB_Demo.cspr
 E:\Sem_4_All_Detail\C#\MyWordPad\P7\pro10\prjRTB_Demo\obj\Debug\prjRTB_Demo.Form1.resources
 E:\Sem_4_All_Detail\C#\MyWordPad\P7\pro10\prjRTB_Demo\obj\Debug\prjRTB_Demo.Properties.Resources.resources
 E:\Sem_4_All_Detail\C#\MyWordPad\P7\pro10\prjRTB_Demo\obj\Debug\prjRTB_Demo.csproj.GenerateResource.Cache
+D:\WordPad\prjRTB_Demo\bin\Debug\prjRTB_Demo.exe.config
+D:\WordPad\prjRTB_Demo\obj\Debug\prjRTB_Demo.exe
+D:\WordPad\prjRTB_Demo\obj\Debug\prjRTB_Demo.pdb
