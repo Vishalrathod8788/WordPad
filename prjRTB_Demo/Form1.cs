@@ -16,6 +16,7 @@ namespace prjRTB_Demo
         {
             InitializeComponent();
         }
+
         string myPath = "";
         bool isEdit = false;
 
